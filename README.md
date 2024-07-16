@@ -16,18 +16,17 @@
 <p align="center">
 		<em>Developed with the software and tools below.</em>
 </p>
-<p align="center">
-	</p>
 <hr>
 
 ##  Quick Links
 
-> - [ Overview](#-overview)
-> - [ Repository Structure](#-repository-structure)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
->   - [ Running CPP-Stress-Tester](#-running-the-batch-script)
-> - [ Contributing](#-contributing)
+> - [ Overview](#overview)
+> - [ Repository Structure](#repository-structure)
+> - [ Getting Started](#getting-started)
+>   - [ Installation](#installation)
+>   - [ Running CPP-Stress-Tester](#running-the-batch-script)
+>   - [ Script Details](#batch-script-details)
+> - [ Contributing](#contributing)
 
 ---
 
@@ -84,7 +83,7 @@ Automated stress testing framework for C++ programs with customizable test case 
 
 2. Double-click the batch file or run it from the command line:
     ```sh
-    run.bat
+    .\script.bat
     ```
 
 ### Batch Script Details
